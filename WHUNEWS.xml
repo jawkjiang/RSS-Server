@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Example RSS Feed</title>
+    <link>https://news.whu.edu.cn</link>
+    <description>This is an example RSS feed.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>FeedGen</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Jul 2023 14:27:54 +0000</lastBuildDate>
+    <item>
+      <title>公众号</title>
+      <link>https://news.whu.edu.cn/</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/</guid>
+    </item>
+    <item>
+      <link>http://www.xinhuanet.com/</link>
+      <description>1</description>
+      <guid isPermaLink="false">http://www.xinhuanet.com/</guid>
+    </item>
+    <item>
+      <link>https://news.whu.edu.cn/index.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/index.htm</guid>
+    </item>
+    <item>
+      <title>4年时间，她从专业第一到珞珈榜样！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA5MjM3MzUxMA==&amp;mid=2656003837&amp;idx=1&amp;sn=99c24a1fb7e2979eabc528a0df4a7902&amp;chksm=8bd5d194bca25882d7e8f6eb846338f5e27e30aee83f98771c40e933da097f1607052f050fad&amp;scene=21#wechat_redirect</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA5MjM3MzUxMA==&amp;mid=2656003837&amp;idx=1&amp;sn=99c24a1fb7e2979eabc528a0df4a7902&amp;chksm=8bd5d194bca25882d7e8f6eb846338f5e27e30aee83f98771c40e933da097f1607052f050fad&amp;scene=21#wechat_redirect</guid>
+    </item>
+    <item>
+      <title>各院系毕业祝福，我武有心啦</title>
+      <link>https://weibo.com/wuhandaxue</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://weibo.com/wuhandaxue</guid>
+    </item>
+    <item>
+      <title>今日首发！武大2023年招生宣传片《新声》</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzA5MjM3MzUxMA==&amp;mid=2656004952&amp;idx=1&amp;sn=730b1895c9ab27005b197d72b260a349&amp;chksm=8bd5dc31bca255271c94f659d6117e9fcca61f8da0540160170a23fd798d6841696f047addf9&amp;scene=178&amp;cur_album_id=1499607873260191745#rd</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s?__biz=MzA5MjM3MzUxMA==&amp;mid=2656004952&amp;idx=1&amp;sn=730b1895c9ab27005b197d72b260a349&amp;chksm=8bd5dc31bca255271c94f659d6117e9fcca61f8da0540160170a23fd798d6841696f047addf9&amp;scene=178&amp;cur_album_id=1499607873260191745#rd</guid>
+    </item>
+    <item>
+      <title>活力无限，“乒”出精彩！武汉大学2023年研究生乒乓球赛回顾</title>
+      <link>https://www.douyin.com/user/MS4wLjABAAAAy1FZeNcTtD6eONu5SMCS-zdRCJVMKIGDhqzzvewBPuI</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://www.douyin.com/user/MS4wLjABAAAAy1FZeNcTtD6eONu5SMCS-zdRCJVMKIGDhqzzvewBPuI</guid>
+    </item>
+    <item>
+      <title>【时代新人说】谭佐财：“发光”的珞珈法律人</title>
+      <link>https://news.whu.edu.cn/info/1005/69622.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1005/69622.htm</guid>
+    </item>
+    <item>
+      <title>【时代新人说】侯树洋：用遥感“大镜头”遥瞰乡村振兴大理想</title>
+      <link>https://news.whu.edu.cn/info/1005/69658.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1005/69658.htm</guid>
+    </item>
+    <item>
+      <title>【时代新人说】权谦：赤子之心向基层</title>
+      <link>https://news.whu.edu.cn/info/1005/69693.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1005/69693.htm</guid>
+    </item>
+    <item>
+      <title>【全国科技工作者日典型宣传】援边固疆典范——邹华、田智全</title>
+      <link>https://news.whu.edu.cn/info/1005/69701.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1005/69701.htm</guid>
+    </item>
+    <item>
+      <title>【时代新人说】衣力亚尔·依马木艾山：在求学路上开满团结奋进之花</title>
+      <link>https://news.whu.edu.cn/info/1005/69713.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1005/69713.htm</guid>
+    </item>
+    <item>
+      <title>【珞珈人物】茆智：把论文写在祖国大地上</title>
+      <link>https://news.whu.edu.cn/info/1005/69811.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1005/69811.htm</guid>
+    </item>
+    <item>
+      <title>【时代新人说】张弛：逆风张帆志不改，驰骋科研报国路</title>
+      <link>https://news.whu.edu.cn/info/1005/69826.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1005/69826.htm</guid>
+    </item>
+    <item>
+      <title>【时代新人说】杨光亮：矢志报国，争做大写的人</title>
+      <link>https://news.whu.edu.cn/info/1005/432597.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1005/432597.htm</guid>
+    </item>
+    <item>
+      <title>【珞珈人物】谢鉴衡：敢以雄心治江河</title>
+      <link>https://news.whu.edu.cn/info/1005/440047.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1005/440047.htm</guid>
+    </item>
+    <item>
+      <title>学校举行大学生模拟政协提案大赛</title>
+      <link>https://news.whu.edu.cn/info/1007/439427.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1007/439427.htm</guid>
+    </item>
+    <item>
+      <title>庆七一·“老少两代”同学同讲精神谱系活动圆满举办</title>
+      <link>https://news.whu.edu.cn/info/1007/439497.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1007/439497.htm</guid>
+    </item>
+    <item>
+      <title>武大学子在中国机器人及人工智能大赛斩获2项国家一等奖</title>
+      <link>https://news.whu.edu.cn/info/1007/439547.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1007/439547.htm</guid>
+    </item>
+    <item>
+      <title>第三学期国际课程：在国际知识海洋徜徉</title>
+      <link>https://news.whu.edu.cn/info/1007/439987.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1007/439987.htm</guid>
+    </item>
+    <item>
+      <title>第十一届亚太大专华语辩论公开赛落幕，我校夺冠</title>
+      <link>https://news.whu.edu.cn/info/1007/440087.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1007/440087.htm</guid>
+    </item>
+    <item>
+      <title>我校成功举办“感知中国--魅力恩施”社会实践与文化体验活动</title>
+      <link>https://news.whu.edu.cn/info/1007/440187.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1007/440187.htm</guid>
+    </item>
+    <item>
+      <title>有效促进难愈性创面愈合，研究成果登上《先进科学》</title>
+      <link>https://news.whu.edu.cn/info/1015/439747.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1015/439747.htm</guid>
+    </item>
+    <item>
+      <title>陈雄/吴伟用于睡眠疾病监测的印刷柔性湿度传感器研究取得新进展</title>
+      <link>https://news.whu.edu.cn/info/1015/439797.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1015/439797.htm</guid>
+    </item>
+    <item>
+      <title>人民医院《细胞》发文为神经系统疾病早诊治带来新希望</title>
+      <link>https://news.whu.edu.cn/info/1015/439937.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1015/439937.htm</guid>
+    </item>
+    <item>
+      <title>我校成功主办2023年生态文明贵阳国际论坛——“法治保障生态文明先行区建设”主题论坛</title>
+      <link>https://news.whu.edu.cn/info/1015/440037.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1015/440037.htm</guid>
+    </item>
+    <item>
+      <title>帕尔格雷夫·麦克米伦出版发行韩晗主编英文专著</title>
+      <link>https://news.whu.edu.cn/info/1015/440237.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1015/440237.htm</guid>
+    </item>
+    <item>
+      <title>新时代师德师风建设学术研讨会顺利召开</title>
+      <link>https://news.whu.edu.cn/info/1015/440267.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1015/440267.htm</guid>
+    </item>
+    <item>
+      <title>郭明雄/孙桂鸿团队关于工程化人工囊泡治疗胶质母细胞瘤研究取得新进展</title>
+      <link>https://news.whu.edu.cn/info/1015/440277.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1015/440277.htm</guid>
+    </item>
+    <item>
+      <title>水利水电学院本科生提出水文过程约束的深度学习新机制</title>
+      <link>https://news.whu.edu.cn/info/1015/440287.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1015/440287.htm</guid>
+    </item>
+    <item>
+      <title>【主题教育】张平文讲授主题教育专题党课</title>
+      <link>http://news.whu.edu.cn/info/1491/439407.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">http://news.whu.edu.cn/info/1491/439407.htm</guid>
+    </item>
+    <item>
+      <title>百卅珞珈心向党，砥砺奋进建新功</title>
+      <link>https://news.whu.edu.cn/info/1002/439577.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1002/439577.htm</guid>
+    </item>
+    <item>
+      <title>武汉大学党委理论学习中心组集体学习习近平法治思想</title>
+      <link>https://news.whu.edu.cn/info/1002/439787.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1002/439787.htm</guid>
+    </item>
+    <item>
+      <title>武汉大学与中国南水北调集团有限公司签署战略合作协议</title>
+      <link>https://news.whu.edu.cn/info/1002/439847.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1002/439847.htm</guid>
+    </item>
+    <item>
+      <title>张平文一行赴贵州深化校地校企合作、看望慰问选调生代表</title>
+      <link>https://news.whu.edu.cn/info/1002/440027.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1002/440027.htm</guid>
+    </item>
+    <item>
+      <title>引进人才入职仪式：新时代新征程新教师，武汉大学欢迎您！</title>
+      <link>https://news.whu.edu.cn/info/1002/440217.htm</link>
+      <description>1</description>
+      <guid isPermaLink="false">https://news.whu.edu.cn/info/1002/440217.htm</guid>
+    </item>
+  </channel>
+</rss>

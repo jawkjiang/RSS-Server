@@ -22,7 +22,7 @@ def scrape(key_words, language, num, tbm, time_filter):
         'q': key_words,
         'hl': language,
         'num': num,
-        'start': 0,     # start refers to the page number. Use an iterator till turning back nothing.
+        'start': 0,     # start refers to the index of the first result. Use an iterator till turning back nothing.
         'tbm': tbm,     # tbm indicates the type of search results
         'tbs': f"qdr:{time_filter}"
     }
@@ -61,7 +61,7 @@ def scrape(key_words, language, num, tbm, time_filter):
             entry.guid(link)
             entry.pubDate(datetime.datetime.now(tz=pytz.timezone('America/New_York')))
 
-        page_num += 1
+        page_num += 10
         url = f"https://www.google.com/search?" \
               f"q={key_words}&hl={language}&num={num}&start={page_num}&tbm={tbm}&tbs=qdr:{time_filter}"
         driver.get(url)
